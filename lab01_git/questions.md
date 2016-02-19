@@ -12,16 +12,16 @@
 # Homework Questions
 
 1.  What is the ``grep``command?
-    >   answer
+    >   Busca líneas de archivos que coincidan con algún patrón.  
 
 2.  What is a *makefile*?
-    >   answer
+    >   Es una forma de organizar la compilación del código 
 
 4.  What does the ``-prune`` option of ``find`` do? Give an example
-    >   answer
+    >   Se realiza la búsqueda especificada solamente en el directorio actual, es decir, no se hace dentro del directorio. 
 
 5.  Where is the ``grub.cfg``  file
-    >   answer
+    >   Está ubicado en \boot\grub
 
 6.  How many files with ``gnu`` in its name are in ``/usr/src``
     >   answer
@@ -30,31 +30,31 @@
     >   answer
 
 8.  What does the ``cut`` command do?
-    >   answer
+    >   Es utilizado para procesar texto, es decir se puede extraer parte de un archivo.  
 
 9.  What does the ``wget`` command do?
-    >   answer
+    >   Permite descargar archivos de una página web. 
 
 9.  What does the ``rsync`` command do?
-    >   answer
+    >   Herramienta rápida para copiar archivos. 
 
 10.  What does the ``diff`` command do?
-    >   answer
+    >   Permite comprar archivos línea por línea. 
 
 10.  What does the ``tail`` command do?
-    >   answer
+    >   Muestra las últimas partes del archivo que se especifique. Imprime las 10 últimas líneas de cada archivo. 
 
 10.  What does the ``tail -f`` command do?
     >   answer
 
 10.  What does the ``link`` command do?
-    >   answer
+    >  Le da un nuevo nombre a un archivo. Crea un nuevo enlace de un archivo existente. 
 
 11.  How many users exist in the course server?
-    >   answer
+    >   43
 
 12. What command will produce a table of Users and Shells sorted by shell (tip: using ``cut`` and ``sort``)
-    >   answer
+    >   
 
 13. What command will produce the number of users with shell ``/sbin/nologin`` (tip: using ``grep`` and ``wc``)
     >   answer
